@@ -77,7 +77,7 @@ button {
     border-radius: 0.5rem;
     background: var(--Grey);
     border: none;
-    padding: 0.75rem;
+    padding: 1rem;
     /* style text */
     color: var(--White);
     font-family: "Inter", sans-serif;
