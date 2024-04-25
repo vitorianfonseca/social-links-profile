@@ -67,7 +67,7 @@ p {
 .botoes {
     display: flex;
     flex-direction: column;
-    gap: 1.3rem;
+    gap: 1rem;
     margin-top: 1.5rem;
 }
 
